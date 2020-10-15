@@ -16,5 +16,5 @@ if __name__ == "__main__":
         
     
         
-    print(n) if n !=0 else print(9)
+    print(n) if n != 0 else print(9)
     
